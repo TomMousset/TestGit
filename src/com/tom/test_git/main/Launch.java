@@ -4,7 +4,7 @@ public class Launch {
 
 	public static void main(String[] args) {
 		System.out.println("Coucou Tom");
-
+		System.out.println("C' est michael");
 	}
 
 }
